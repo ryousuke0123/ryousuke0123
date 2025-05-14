@@ -1,6 +1,13 @@
 ## Hi there 👋
 I'm a Software Developer from Japan!
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryousuke0123&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryousuke0123&theme=onedark&show_icons=ture" />
+
+[![Top Langs](https://github-profile-trophy.vercel.app/?username=ryousuke0123&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **ryousuke0123/ryousuke0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
