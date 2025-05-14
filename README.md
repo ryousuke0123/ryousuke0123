@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Software Developer from Japan!
+### I'm a Software Developer from Japan!
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryousuke0123&layout=compact&show_icons=true&theme=onedark" />
